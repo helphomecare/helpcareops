@@ -1,0 +1,7 @@
+# In your HelpCareOps project folder
+git init
+git add .
+git commit -m "Initial HelpCareOps deployment"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/helpcareops.git
+git push -u origin main
